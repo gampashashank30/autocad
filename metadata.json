@@ -1,0 +1,6 @@
+{
+  "name": "Google Drive Access",
+  "description": "A minimalist, clean web app for quickly accessing a shared Google Drive folder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
